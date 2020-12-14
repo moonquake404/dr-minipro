@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/find/find"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "DR求婚钻戒",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+    "color": "#8d8d8d",
+    "selectedColor": "#B89688",
+    "backgroundColor":"#ffffff",
+    "list":[
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

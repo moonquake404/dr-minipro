@@ -1,0 +1,143 @@
+<view class="indexContainer">
+  <!-- 首页标题图片 -->
+  <view class="indexImg" style="background-image: url(../../../../images/indexImg.png);"></view>
+  <!-- 三个按钮 -->
+  <view class="indButContainer">
+    <view class="indBut">
+      <image class="indButImg" src="//res.darryring.com/webimg/index/category_1.jpg"></image>
+      <text class="ibtcn">求婚钻戒</text>
+      <text class="ibten">ENGAGEMENT</text>
+    </view>
+    <view class="indBut">
+      <image class="indButImg" src="//res.darryring.com/webimg/index/category_2.jpg"></image>
+      <text class="ibtcn">结婚对戒</text>
+      <text class="ibten">WEDDING</text>
+    </view>
+    <view class="indBut">
+      <image class="indButImg" src="//res.darryring.com/webimg/index/category_3.jpg"></image>
+      <text class="ibtcn">真爱礼物</text>
+      <text class="ibten">GIFTS</text>
+    </view>
+  </view>
+  <!-- 新人福利 -->
+  <view>
+    <image class="fuliImg" src="../../images/newfuli.png"></image>
+  </view>
+  <!-- 艺术·爱情 -->
+  <view>
+    <image class="artLove" src="../../images/artLove.png"></image>
+  </view>
+  <!-- 晒单 -->
+  <view class="shaiDan">
+    <!-- 标题 -->
+    <view class="sTitle">
+      <text class="shaiTitle">甜蜜晒单</text>
+      <text class="shaiTitle2">即刻晒单，领取惊喜好礼</text>
+    </view>
+    <text class="shaiMore">查看更多 ></text>
+    <!-- 滑块 -->
+    <scroll-view class="sdSwip" enable-flex scroll-x>
+      <view class="sItem">
+        <image class="sImg" src="../../images/story1.jpg"></image>
+        <text class="sText">“送了这枚DR钻戒，你这一生就只能爱一人啦”————17岁那年喜欢的男孩</text>
+        <text class="usrName">——夏夏夏夏yeah</text>
+      </view>
+      <view class="sItem">
+        <image class="sImg" src="../../images/story1.jpg"></image>
+        <text class="sText">“送了这枚DR钻戒，你这一生就只能爱一人啦”————17岁那年喜欢的男孩</text>
+        <text class="usrName">——夏夏夏夏yeah</text>
+      </view>
+      <view class="sItem">
+        <image class="sImg" src="../../images/story1.jpg"></image>
+        <text class="sText">“送了这枚DR钻戒，你这一生就只能爱一人啦”————17岁那年喜欢的男孩</text>
+        <text class="usrName">——夏夏夏夏yeah</text>
+      </view>
+      <view class="sItem">
+        <image class="sImg" src="../../images/story1.jpg"></image>
+        <text class="sText">“送了这枚DR钻戒，你这一生就只能爱一人啦”————17岁那年喜欢的男孩</text>
+        <text class="usrName">——夏夏夏夏yeah</text>
+      </view>
+      <view class="sItem">
+        <image class="sImg" src="../../images/story1.jpg"></image>
+        <text class="sText">“送了这枚DR钻戒，你这一生就只能爱一人啦”————17岁那年喜欢的男孩</text>
+        <text class="usrName">——夏夏夏夏yeah</text>
+      </view>
+      <view class="sItem">
+        <image class="sImg" src="../../images/story1.jpg"></image>
+        <text class="sText">“送了这枚DR钻戒，你这一生就只能爱一人啦”————17岁那年喜欢的男孩</text>
+        <text class="usrName">——夏夏夏夏yeah</text>
+      </view>
+    </scroll-view>
+  </view>
+  <!-- 推荐 -->
+  <view class="recommend">
+    <!-- 标题 -->
+    <text class="recTitle">臻选推荐</text>
+    <!-- 商品 -->
+    <view>
+      <view class="lproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+      <view class="rproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+    </view>
+
+    <view>
+      <view class="lproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+      <view class="rproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+    </view>
+    <view>
+      <view class="lproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+      <view class="rproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+    </view>
+    <view>
+      <view class="lproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+      <view class="rproduct">
+        <image class="proImg" src="https://elove.darryring.com/group1/M00/1B/F6/wKgc6F8wqbWAK4npAADN-M9HMqA394.jpg">
+        </image>
+        <text class="proName">MY HEART系列</text>
+        <text class="proClass">简奢款 求婚钻戒</text>
+        <text class="price">￥27899</text>
+      </view>
+    </view>
+  </view>
+</view>
